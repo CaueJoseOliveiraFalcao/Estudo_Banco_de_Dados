@@ -1,0 +1,21 @@
+Der = Diagrama entidade relaciomanto
+	entidade = objeto em si
+	atributo = carateristicas 
+	relacoamento numero de relacioamento
+modelo logico = abstração pelo SGBD
+
+relacionamento ternario
+	quando 3 entidades conoartilham um tipo de relacioamento 
+enitdade acossiativa 
+	um tipo de pivo entre duas entidades
+        todo relacionamento N;N pode ser uma entidade acossiativa 
+2. 
+
+chave candidata 
+	serve para direfenciar das outras colunas como o CPF 
+chave alternativa 
+
+Entidade forte
+	vira uma tabella obrigatoriamente
+Entidade fraca 
+	depende de uma forte para existirI
