@@ -19,3 +19,25 @@ Entidade forte
 	vira uma tabella obrigatoriamente
 Entidade fraca 
 	depende de uma forte para existirI
+	
+3.
+	criar um database
+	CREATE DATABASE BDESTUDO
+	
+	excluir database
+	DROP DATABASE BDESTUDO
+	
+	criar tabela
+	CREATE TABLE NOMETABELA (
+	COLUNA1 - TIPODEDADOS [RESTIÇAO],
+	COLUNAN - TIPODEDADOS [RESTRIÇÃO],
+	PRIMARY KEY (COLUNA),
+	FOREING KAY (COLUNA REFERENCES NOMETABELA2 (COLUNA)
+	CONSTRAINT RETRSICA);
+	
+	inserir valor
+	INSERT INTO CUSRO (CODIGO,NOME,DATACRIAÇÃO)
+	VALUES(1,'sISTAMES' ,'DATA')
+	
+	atualizar valores 
+	UPDATE DISCIPLINA SET NOME='JALAPAO' WHERE ID=1
