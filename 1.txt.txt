@@ -41,3 +41,4 @@ Entidade fraca
 	
 	atualizar valores 
 	UPDATE DISCIPLINA SET NOME='JALAPAO' WHERE ID=1
+update
